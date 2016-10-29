@@ -8,6 +8,6 @@ Often there is no support there at all.
 
 The mission of this repository is to collect different examples on how to get live debugging capabilities with Docker and your favourite IDE or editor.
 
-[Express/Node.js with Visual Studio Code](nodejs_with_visual_studio_code.md/README.md)
+[Express/Node.js with Visual Studio Code](nodejs_with_visual_studio_code/README.md)
 
 
